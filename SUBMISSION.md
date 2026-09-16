@@ -5,16 +5,17 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Manu Joji John
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+Learned how to link my vscode to my online repo via ssh keys rather through http
+Learned the proper conventional commit commands to stage and then push my commits
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git add - I would use this command to stage my changes before i commit them
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: [text](https://github.com/mj002005/lab-01-git-github-mj002005/pull/2)
