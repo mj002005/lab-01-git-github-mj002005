@@ -1,8 +1,5 @@
 # Lab 01 - Submission
 
-Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
-
 ## Name
 
 Manu Joji John
